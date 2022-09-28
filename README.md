@@ -11,7 +11,7 @@ Requirements
 Role Variables
 --------------
 
-Переменных нет
+lighthouse_home - директория для установки Lighthouse
 
 Dependencies
 ------------
